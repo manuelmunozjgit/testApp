@@ -1,6 +1,7 @@
 
 <?php
 
-echo "hola poh !!";
+echo "hola poh !! <br>";
+echo "y chao !!<br>";
 
 ?>
